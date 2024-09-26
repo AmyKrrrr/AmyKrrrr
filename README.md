@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AmyKrrrr/AmyKrrrr/blob/main/Code%20to%20create,%20solve,%20and%20innovate..png?raw=true)]
+![MasterHead](https://github.com/AmyKrrrr/AmyKrrrr/blob/main/Code%20to%20create,%20solve,%20and%20innovate..png?raw=true)
 <h1 align="center">Hi 👋, I am Amitesh Kar</h1>
 <h3 align="center">A Hardworking developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/AmyKrrrr/AmyKrrrr/blob/main/Vector_art.png?raw=true">
