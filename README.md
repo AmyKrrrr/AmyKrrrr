@@ -1,7 +1,7 @@
+[![MasterHead](https://github.com/AmyKrrrr/AmyKrrrr/blob/main/Code%20to%20create,%20solve,%20and%20innovate..png?raw=true)]
 <h1 align="center">Hi 👋, I am Amitesh Kar</h1>
 <h3 align="center">A Hardworking developer from India</h3>
-<img align="right" alt="coding" width="400" src="">
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGOsFqd9zU&#x2F;MayOKHRmtj1TO4kcHe0W4A&#x2F;view?utm_content=DAGOsFqd9zU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Code to create, solve, and innovate.</a> by Amitesh Kar">
+<img align="right" alt="coding" width="400" src="https://github.com/AmyKrrrr/AmyKrrrr/blob/main/Vector_art.png?raw=true">
 
 - 💻 I’m pursuing Computer Science Engineering at **GITAM University (Hyderabad)**
 
